@@ -5,4 +5,4 @@
 # *There is no example, I just **started**  my training*
 # *Now i study at rsschool*
 # *Study at BNTU*
- # *A2*
+# *A2*
